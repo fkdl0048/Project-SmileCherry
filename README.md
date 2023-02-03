@@ -1,9 +1,7 @@
 # Project-SmileCherry
 SGM-14 Project
 
-스마일 체리 프로젝트  
-
-![타이틀 이미지](../Project-SmileCherry/IMG/Title.png)  
+스마일 체리 프로젝트   
 
 전 스마일체리 업그레이드 프로젝트 [전 체리 프로젝트](https://fkdl0048.github.io/game/game_4/)  
 
@@ -17,3 +15,4 @@ SGM-14 Project
 
 전 프로젝트와 차이점: 스파인 애니메이션 도입, 액션성 업그레이드, 캐릭터 성격 및 스토리 구체화, 배경 및 오브젝트 전체 제작  
 
+![GIF](IMG/TitleGif.gif)
