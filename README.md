@@ -16,3 +16,7 @@ SGM-14 Project
 전 프로젝트와 차이점: 스파인 애니메이션 도입, 액션성 업그레이드, 캐릭터 성격 및 스토리 구체화, 배경 및 오브젝트 전체 제작  
 
 ![GIF](IMG/TitleGif.gif)
+
+![GIF](IMG/Fight.gif)  
+
+![GIF](IMG/Trap.gif)  
